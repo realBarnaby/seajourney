@@ -1,0 +1,2 @@
+Nautical miles: 1000
+The journey takes 100.0hour
